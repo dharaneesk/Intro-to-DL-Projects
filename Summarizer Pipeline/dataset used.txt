@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail/data
+https://www.kaggle.com/datasets/kageneko/legal-case-document-summarization/data
